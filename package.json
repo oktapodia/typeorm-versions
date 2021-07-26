@@ -1,6 +1,6 @@
 {
-  "name": "typeorm-versions",
-  "version": "0.2.0",
+  "name": "@oktapodia/typeorm-versions",
+  "version": "0.2.2",
   "description": "Entity versioning for TypeORM",
   "license": "MIT",
   "readmeFilename": "README.md",
@@ -12,7 +12,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:oktapodia/typeorm-versions.git"
+    "url": "https://github.com/oktapodia/typeorm-versions.git"
   },
   "bugs": {
     "url": "https://github.com/frane/typeorm-versions/issues"
